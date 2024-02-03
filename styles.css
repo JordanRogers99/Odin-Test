@@ -1,9 +1,85 @@
+.one-four {
+background-color:rgb(31, 41, 55);
+padding: 30px;
+}
+
+
+
 .header {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    gap: 15px;
 }
 
-.headerlogo {
-    
+        .headerlogo {
+            display: flex;
+            flex: 1 0 400px;
+            color: white;
+        }
+
+        .header-link-one {
+            color: white;
+        }
+
+        .header-link-two {
+            color: white;
+        }
+
+        .header-link-three {
+            color: white;
+        }
+
+        .header-link-four {
+            color: white;
+        }
+
+
+
+.opening {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+    gap: 20px;
+}
+
+        .opener1 {
+            color: white;
+            display: flex;
+            flex-direction: column;
+            flex: 1 0 50%;
+            max-width: 300px;
+            min-height: 200px;
+            
+        }
+
+        .opener2 {
+            color: white;
+            display: flex;
+            flex: 1 0 50%;
+            flex-direction: column;
+            background-color: grey;
+            min-height: 200px;
+            align-items: center;
+            justify-content: center;
+            max-width: 300px;
+            
+        }
+
+        .firstbutton {
+            background-color: rgb(73, 113, 214);
+            max-width: 100px;
+            align-items: center;
+            justify-content: center;
+            align-self: center;
+            border-radius: 20px;
+        }
+
+.two-four {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
 }
