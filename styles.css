@@ -167,6 +167,8 @@ padding: 30px;
     margin-top: 15px;
     text-align: center;
     width: max-content;
+    margin-right: auto;
+    margin-left: auto;
 }
 
     .firsttext {
