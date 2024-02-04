@@ -165,6 +165,8 @@ padding: 30px;
     gap: 50px;
     padding: 30px;
     margin-top: 15px;
+    text-align: center;
+    width: max-content;
 }
 
     .firsttext {
